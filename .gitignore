@@ -1,3 +1,4 @@
 plan*
 logs/
 __pycache__/
+models/features/
