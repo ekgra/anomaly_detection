@@ -1,0 +1,16 @@
+[
+  "<NUM> <NUM> <NUM> INFO <*> <*> <*> <*> blk_<NUM>",
+  "<NUM> <NUM> <NUM> INFO dfs.DataNode$DataXceiver: <IP>:<NUM> Served block blk_<NUM> to /<IP>",
+  "<NUM> <NUM> <NUM> INFO dfs.DataNode$DataXceiver: Received block blk_<NUM> src: /<IP>:<NUM> dest: /<IP>:<NUM> of size <NUM>",
+  "<NUM> <NUM> <NUM> INFO dfs.DataNode$DataXceiver: Receiving block blk_<NUM> src: /<IP>:<NUM> dest: /<IP>:<NUM>",
+  "<NUM> <NUM> <NUM> INFO dfs.DataNode$PacketResponder: PacketResponder <NUM> for block blk_<NUM> terminating",
+  "<NUM> <NUM> <NUM> INFO dfs.DataNode$PacketResponder: Received block blk_<NUM> of size <NUM> from /<IP>",
+  "<NUM> <NUM> <NUM> INFO dfs.DataNode: <IP>:<NUM> Starting thread to transfer block blk_<NUM> to <IP>:<NUM>",
+  "<NUM> <NUM> <NUM> INFO dfs.FSDataset: Deleting block blk_<NUM> file <*>",
+  "<NUM> <NUM> <NUM> INFO dfs.FSNamesystem: BLOCK* <*> <*> <*> <*> <*> <*> <*> <IP>:<NUM>",
+  "<NUM> <NUM> <NUM> INFO dfs.FSNamesystem: BLOCK* NameSystem.addStoredBlock: blockMap updated: <IP>:<NUM> is added to blk_<NUM> size <NUM>",
+  "<NUM> <NUM> <NUM> INFO dfs.FSNamesystem: BLOCK* ask <IP>:<NUM> to delete blk_<NUM>",
+  "<NUM> <NUM> <NUM> INFO dfs.FSNamesystem: BLOCK* ask <IP>:<NUM> to delete blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM>",
+  "<NUM> <NUM> <NUM> INFO dfs.FSNamesystem: BLOCK* ask <IP>:<NUM> to delete blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM> blk_<NUM>",
+  "<NUM> <NUM> <NUM> WARN dfs.DataNode$DataXceiver: <IP>:<NUM>:Got exception while serving blk_<NUM> to /<IP>:"
+]
