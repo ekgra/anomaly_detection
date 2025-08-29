@@ -14,6 +14,9 @@ USAGE:
 
   # With anomalies too
   python scripts/generate_logs.py --with-anomalies
+  
+  python scripts/generate_logs.py --with-anomalies --anomaly-count 200
+
 
   # Override sizes / paths if needed
   python scripts/generate_logs.py --train 200000 --val 20000 --test-clean 150000 --out-dir out_logs
